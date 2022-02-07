@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lamminhthien
+- 👀 I’m interested in Backend Development, Web and Mobile
+- 🌱 I’m currently learning Node Js, React JS, Flutter,
+- 📫 How to reach me: Phone number: 0828504336 | Email: lamminhthien02012000@gmail.com
